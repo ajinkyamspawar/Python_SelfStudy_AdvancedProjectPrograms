@@ -6,6 +6,6 @@ Created on Wed Apr 12 19:04:33 2023
 """
 
 import qrcode as qr
-img = qr.make("https://ajinkyamspawar.blogspot.com/")
+img = qr.make("linkofwebsite")
 
-img.save("@SeedingYounger.png")
+img.save("nameforimage.png")
